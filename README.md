@@ -13,5 +13,5 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| Yang Hu   | yhu27 |
+| ' Student '  | ' Student ' |
 | `<Add more>` | `<CCID>`  |
